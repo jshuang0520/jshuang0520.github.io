@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Daniel Serrano"
+  name   : "Johnson Huang"
   avatar : "/assets/images/dragonslug.jpg"
-  bio    : "Graduate student in Biological Sciences interested in cell dynamics."
+  bio    : "5+ Years of Experience in Data Science & Data Engineering | MS @UMD Data Science | BS @NCU Mathematics | Actively seeking 2025 summer internship"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,10 +70,10 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/"
+      url: "https://github.com/jshuang0520/"
+  #  - label: "LinkedIn"
+  #    icon: "fab fa-fw fa-linkedin"
+  #    url: "https://www.linkedin.com/in/johnson-huang-554531148/"
 
 footer:
   links:
