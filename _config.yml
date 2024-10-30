@@ -13,12 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Daniel Serrano Portfolio
+title: Johnson Huang
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  5+ Years of Experience in Data Science & Data Engineering, focusing on: 
+  - Data analytics in battery and GIS data
+  - Data engineering
+  - ML / DL
+  - NLP / LLMs
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: neon
@@ -60,14 +62,14 @@ plugins:
 author:
   name   : "Johnson Huang"
   avatar : "/assets/images/dragonslug.jpg"
-  bio    : "5+ Years of Experience in Data Science & Data Engineering | MS @UMD Data Science | BS @NCU Mathematics | Actively seeking 2025 summer internship"
+  bio    : "5+ Years of Experience in Data Science & Data Engineering / MS @UMD Data Science / BS @NCU Mathematics / Actively seeking 2025 summer internship"
   links:
-    - label: "Website"
+    - label: "personal website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://jshuang0520.github.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/johnson-huang-554531148/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jshuang0520/"
